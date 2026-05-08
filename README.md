@@ -1,5 +1,9 @@
 # E-commerce Funnel Analysis | SQL Server + Power BI
 
+## Project Links
+- **Portfolio case study:** https://georgeoduk.github.io/ecommerce-funnel.html
+- **GitHub repository:** https://github.com/GeorgeOduk/ecommerce-funnel-analysis-sql-powerbi
+
 ## Project Overview
 
 This project analyses an e-commerce conversion funnel to understand how users move through the journey from landing on the home page to completing a purchase.
