@@ -108,7 +108,7 @@ The strongest diagnostic finding is the March 2015 deterioration:
 - Mobile Home - Search falls from approximately **80%** before March to **20%** after March.
 - Desktop Search - Payment falls from approximately **15.91%** before March to **4.00%** after March.
 
-This suggests a possible product release, user experience "(UX)" issue, technical disruption, tracking issue, or journey change from March onward.
+This suggests a possible product release, user experience (UX) issue, technical disruption, tracking issue, or journey change from March onward.
 
 ---
 
