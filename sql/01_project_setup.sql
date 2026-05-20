@@ -20,7 +20,6 @@ IF NOT EXISTS (SELECT 1 FROM sys.schemas WHERE name = 'mart')
 	EXEC('CREATE SCHEMA mart');
 GO
 
------------------------------------------------------------------------------------------------------------------------
 /*
 Checking that the raw tables are imported properly
 */
@@ -43,7 +42,4 @@ SELECT TOP 10 * FROM dbo.raw_home_page_table;
 SELECT TOP 10 * FROM dbo.raw_search_page_table;
 SELECT TOP 10 * FROM dbo.raw_payment_page_table;
 SELECT TOP 10 * FROM dbo.raw_payment_confirmation_table;
-
------------------------------------------------------------------------------------------------------------------------
-
 
